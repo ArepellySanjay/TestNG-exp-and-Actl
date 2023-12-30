@@ -1,0 +1,18 @@
+<suite name ="Gmail suit">
+	<test name ="sendmail Test">
+		<parameter name ="email" value ="sanju@gmail.com"></parameter>
+		<parameter name="subject" value ="testCases" ></parameter>
+		
+		<classes>
+			
+			<class name="TestCases.demo"></class>
+			
+		</classes>
+		
+		
+	</test>
+	
+	
+	
+	
+</suite>
